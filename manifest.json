@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Mobile-BeGone",
+  "description": "Ensures that you don't ever accidentally visit a mobile website link on your desktop again.",
+  "version": "1.0",
+  
+  "icons": { 
+	"19": "icon-m-19.png",
+	"48": "icon-m-48.png",
+	"128": "icon-m-128.png"
+   },
+  
+  "background": {
+	"scripts": ["background.js"],
+	"persistent": false
+  },
+  
+  "permissions": [
+	"webNavigation"
+  ]
+}
