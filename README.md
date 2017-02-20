@@ -2,7 +2,7 @@
 
 Perhaps the most trivial chrome extension ever created. 
 
-My chrome browser was autocompleting my frequently visited links with their mobile versions. I suspected that this this was occurring because of shared browser history between the chrome app on my phone and my desktop chrome browser. Whatever the case, I did not want to be going in and editing my browsing history, so I thought i'd just prevent my desktop chrome browser from ever visiting mobile webpage links again.
+My chrome browser was autocompleting my frequently visited links with their mobile versions. I suspected that this was occurring because of shared browser history between the chrome app on my phone and my desktop chrome browser. Whatever the case, I did not want to be going in and editing my browsing history, so I thought i'd just prevent my desktop chrome browser from ever visiting mobile webpage links again.
 
 This extension will prevent your chrome browser from navigating to mobile website links (those prefixed with "m." or "mobile."), and automatically redirect you to the non-mobile link instead.
 
